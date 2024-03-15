@@ -9,4 +9,4 @@ To work with this program, you need to install:<br />
 For start program use command line with root rights. <br />
 
 input `cd path\to\..\the\file` <br />
-`python navigation.py -h`<br />
+`python file_name.py -h`<br />
